@@ -12,4 +12,4 @@ This repository features several notebooks aimed at handling imbalanced datasets
 ## Sources & Additional
 * [Learning from Imbalanced Datasets](https://www.amazon.com/Learning-Imbalanced-Data-Alberto-Fern%C3%A1ndez/dp/3319980734)
 * [Imbalanced Learning: Foundations, Algorithms and Applications](https://www.amazon.com/Imbalanced-Learning-Foundations-Algorithms-Applications/dp/1118074629)
-* [Jason Brownlee - Immbalanced Learning](https://machinelearningmastery.com/what-is-imbalanced-classification/)
+* [Jason Brownlee - Imbalanced Learning](https://machinelearningmastery.com/what-is-imbalanced-classification/)
