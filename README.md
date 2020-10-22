@@ -3,7 +3,7 @@ This repository features several notebooks aimed at handling imbalanced datasets
 * [Imbalanced.ipynb](Imbalanced.ipynb) - Intuition and Overview
 * [OverSampling.ipynb](OverSampling.ipynb) - Techniques for OverSampling 
 * [UnderSampling.ipynb](UnderSampling.ipynb) - Techniques for UnderSampling 
-* [CostSensitiveLearning.ipynb](CostSensitiveLearning.ipynb) - Techniques for with Metrics, Cost Sensitive Learning & Focal Loss
+* [CostSensitiveLearning.ipynb](CostSensitiveLearning.ipynb) - Techniques for Metrics, Cost Sensitive Learning & Focal Loss
 
 ## Datasets & Examples
 * [PimaDiabetes.ipynb](PimaDiabetes.ipynb) - Approaching the imbalanced Pima Indian Diabetes dataset (Binary, XGBoost)
